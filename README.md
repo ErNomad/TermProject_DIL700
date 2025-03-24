@@ -8,6 +8,7 @@ The final notebook is CNN-LSTM.ipynb
 
 
 The EU AI Act Compliance Checker results are as follows:
+
 Your results
 Deployer obligations
 As a deployer of a high-risk AI system, you must comply with Article 26 obligations.
